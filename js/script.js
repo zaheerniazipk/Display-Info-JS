@@ -25,10 +25,3 @@ fakeInputs.forEach(node => {
     // Add a new Class using JS Dynamically
   node.classList.add("real-input");
 })
-
-
-
-
-
-
-// Project Source : https://codepen.io/KalobTaulien/pen/VwjxyGR
